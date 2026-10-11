@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "sequence": 1,
+  "issuedAt": "2026-10-09T00:00:00Z",
+  "flags": { "paywall_enabled": false, "free_auto_trips_per_month": 20 },
+  "FR": {
+    "scales": [
+      {
+        "incomeYear": 2025,
+        "publishedOn": "2026-04-09",
+        "source": "Brochure pratique IR 2026, p. 109, tableau 5 ; service-public.gouv.fr A14686",
+        "electricBonus": "0.20",
+        "car": [
+          { "cvMax": 3, "bands": [
+            { "upToKm": 5000, "rate": "0.529", "fixed": "0" },
+            { "upToKm": 20000, "rate": "0.316", "fixed": "1065" },
+            { "rate": "0.370", "fixed": "0" } ] },
+          { "cvMin": 4, "cvMax": 4, "bands": [
+            { "upToKm": 5000, "rate": "0.606", "fixed": "0" },
+            { "upToKm": 20000, "rate": "0.340", "fixed": "1330" },
+            { "rate": "0.407", "fixed": "0" } ] },
+          { "cvMin": 5, "cvMax": 5, "bands": [
+            { "upToKm": 5000, "rate": "0.636", "fixed": "0" },
+            { "upToKm": 20000, "rate": "0.357", "fixed": "1395" },
+            { "rate": "0.427", "fixed": "0" } ] },
+          { "cvMin": 6, "cvMax": 6, "bands": [
+            { "upToKm": 5000, "rate": "0.665", "fixed": "0" },
+            { "upToKm": 20000, "rate": "0.374", "fixed": "1457" },
+            { "rate": "0.447", "fixed": "0" } ] },
+          { "cvMin": 7, "bands": [
+            { "upToKm": 5000, "rate": "0.697", "fixed": "0" },
+            { "upToKm": 20000, "rate": "0.394", "fixed": "1515" },
+            { "rate": "0.470", "fixed": "0" } ] }
+        ]
+      }
+    ]
+  }
+}
