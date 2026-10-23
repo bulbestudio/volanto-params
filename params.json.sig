@@ -1,5 +1,5 @@
 {
   "alg" : "Ed25519",
   "kid" : "2026-10",
-  "signature" : "2g5y7QDhXuO55pI1Q5Z91baYfPLtyci0WOTh4B/d3zTJFizvjU8tH4K2CFMt5EdDMonYHfcspJiFKIthl3UACQ=="
+  "signature" : "BeEMizxRUL6nsMe+MnJhhs/B60D7O0aa35/zHd+KAFAJDi3gEKqcxQoZaFLac6WVG+ORlKsCvG33bByyO0EhBQ=="
 }

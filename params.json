@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sequence": 1,
+  "sequence": 2,
   "issuedAt": "2026-10-09T00:00:00Z",
   "flags": { "paywall_enabled": false, "free_auto_trips_per_month": 20 },
   "FR": {
